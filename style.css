@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(90, 90, 90);
+  background-color: rgb(230, 230, 230);
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
   line-height: 1.6em;
@@ -44,7 +44,7 @@ h3 {
 }
 
 .card {
-  background: rgb(245, 245, 245);
+  background: rgb(250, 250, 250);
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 4px;
